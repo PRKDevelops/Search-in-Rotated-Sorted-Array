@@ -1,5 +1,3 @@
-package array;
-
 public class RecursionBasics {
 public static int search(int arr[],int tar,int si, int ei) {
 	if(si >ei) {
